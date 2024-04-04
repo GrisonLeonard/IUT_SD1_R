@@ -1,2 +1,3 @@
 # IUT-SD-1
-Ce dossier comporte les TD et TP corrigés de R Studio.
+vous trouverez ci dessous mes tp et td de ma premiere année de BUT SD rn R
+
